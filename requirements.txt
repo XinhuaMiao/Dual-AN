@@ -1,0 +1,16 @@
+class-resolver
+einops
+fire
+gin-config
+numpy
+pandas
+prettytable
+pyro-ppl
+scikit-learn
+torch-geometric
+torch-scatter
+torch-sparse
+torchmetrics
+torchvision
+tqdm
+wandb
