@@ -1,5 +1,6 @@
 # Dual-AN
 This is the offcial repository of paper "Dual-AN: A Hierarchical Framework Synergizes Frequency and Time Domain for Non-stationary Time Series Forecasting"
+![image](https://github.com/XinhuaMiao/Dual-AN/blob/main/fig/Overview%20of%20Dual-AN.png)
 
 # 1 Datasets
 
